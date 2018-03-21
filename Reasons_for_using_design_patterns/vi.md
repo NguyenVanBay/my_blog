@@ -6,7 +6,7 @@
 
 Tiếp tục từ bài viết trước có chủ đề [Why design is Critical to Software Development][1], tôi muốn giải quyết một khía cạnh nâng cao hơn một chút về thiết kế phần mềm được gọi là `Design Patterns`. Như bài viết trước của tôi, ý tưởng đến trong một buổi hội thảo liên quan đến sự thành công của thiết kế phần mềm với một đồng nghiệp làm việc cùng. Chủ đề chính của cuộc thảo luận là cho rằng `Design Patterns` thì quá tốn thời gian để được sử dụng trong một lĩnh vực của phát triển phần mềm thương mại. Mục đích của tôi ở đây là để chứng minh tại sao tôi tin rằng điều đó là sai.
 
-Tôi sẽ không đi vào chi tiết bất kỳ cái gì về cơ chế hoặc quá trình thực hiện của `Design Patterns` cụ thể. Những thứ đó có rất nhiều nguồn rất tốt có sẵn ở chỗ khác.
+Tôi sẽ không đi vào chi tiết bất kỳ cái gì về cấu trúc hay ví dụ nào của `Design Patterns` cụ thể. Những thứ đó có rất nhiều nguồn rất tốt có sẵn ở chỗ khác.
 
 ## Design Pattern là gì?
 
